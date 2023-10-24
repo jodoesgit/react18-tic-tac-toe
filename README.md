@@ -1,8 +1,5 @@
 # **Live: [Tic Tac Toe](https://react18-tic-tac-toe.vercel.app/)**
 
----
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
